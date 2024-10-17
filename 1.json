@@ -1,0 +1,104 @@
+{
+    "traffic_rules": [
+        {
+            "rule_id": 1,
+            "condition": "có biển báo giao thông",
+            "action": "tuân theo chỉ dẫn của biển báo"
+        },
+        {
+            "rule_id": 2,
+            "condition": "có biển báo cấm vượt",
+            "action": "không được vượt xe"
+        },
+        {
+            "rule_id": 3,
+            "condition": "có biển báo giới hạn tốc độ",
+            "action": "tuân theo tốc độ quy định"
+        },
+        {
+            "rule_id": 4,
+            "condition": "đèn tín hiệu giao thông đỏ",
+            "action": "phải dừng lại hoàn toàn"
+        },
+        {
+            "rule_id": 5,
+            "condition": "đèn tín hiệu giao thông vàng",
+            "action": "phải giảm tốc độ và chuẩn bị dừng lại"
+        },
+        {
+            "rule_id": 6,
+            "condition": "đèn tín hiệu giao thông xanh",
+            "action": "có thể di chuyển"
+        },
+        {
+            "rule_id": 7,
+            "condition": "có biển báo dừng",
+            "action": "phải dừng lại trước vạch dừng"
+        },
+        {
+            "rule_id": 8,
+            "condition": "có vạch kẻ dành cho người đi bộ",
+            "action": "phải nhường đường cho người đi bộ"
+        },
+        {
+            "rule_id": 9,
+            "condition": "có vạch kẻ trắng liền",
+            "action": "không được vượt qua vạch kẻ"
+        },
+        {
+            "rule_id": 10,
+            "condition": "có biển báo cấm đỗ xe",
+            "action": "không được đỗ sau vị trí đó"
+        },
+        {
+            "rule_id": 11,
+            "condition": "có biển báo hiệu lệnh",
+            "action": "phải thực hiện theo biển hiệu lệnh đó"
+        },
+        {
+            "rule_id": 12,
+            "condition": "có vạch kẻ phân làn đường",
+            "action": "phải đi đúng làn đường"
+        },
+        {
+            "rule_id": 13,
+            "condition": "có đèn tín hiệu giao thông",
+            "action": "phải chấp hành theo đèn"
+        },
+        {
+            "rule_id": 14,
+            "condition": "có biển báo cấm rẽ",
+            "action": "không được phép rẽ"
+        },
+        {
+            "rule_id": 15,
+            "condition": "có biển báo cảnh báo",
+            "action": "phải giảm tốc độ và chú ý"
+        },
+        {
+            "rule_id": 16,
+            "condition": "có biển báo khu vực trường học",
+            "action": "phải giảm tốc độ và chú ý đến trẻ em"
+        },
+        {
+            "rule_id": 17,
+            "condition": "có biển báo đường cấm",
+            "action": "không được đi vào"
+        },
+        {
+            "rule_id": 18,
+            "condition": "đã uống rượu bia",
+            "action": "không được lái xe"
+        },
+        {
+            "rule_id": 19,
+            "condition": "lái xe vào ban đêm",
+            "action": "phải bật đèn theo quy định để đảm bảo tầm nhìn"
+        },
+        {
+            "rule_id": 20,
+            "condition": "lái xe trong khu vực đông dân cư",
+            "action": "phải giảm tốc độ để đảm bảo an toàn"
+        }
+    ]
+}
