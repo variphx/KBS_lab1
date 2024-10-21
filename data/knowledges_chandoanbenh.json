@@ -1,0 +1,65 @@
+{
+    "laws": [
+      {
+        "conditions": ["Đau họng", "Sốt"],
+        "conclusion": "Viêm amidan"
+      },
+      {
+        "conditions": ["Nghẹt mũi", "Đau đầu"],
+        "conclusion": "Viêm xoang"
+      },
+      {
+        "conditions": ["Ù tai", "Nghe không rõ"],
+        "conclusion": "Viêm tai giữa"
+      },
+      {
+        "conditions": ["Ngứa mũi", "Chảy mũi kéo dài"],
+        "conclusion": "Viêm mũi dị ứng"
+      },
+      {
+        "conditions": ["Đau họng", "Khó nuốt"],
+        "conclusion": "Viêm họng mãn tính"
+      },
+      {
+        "conditions": ["Khô họng", "Ngứa mũi"],
+        "conclusion": "Viêm họng do virus"
+      },
+      {
+        "conditions": ["Mất thính lực", "Ù tai"],
+        "conclusion": "Viêm tai ngoài"
+      },
+      {
+        "conditions": ["Sổ mũi nước trong", "Đau họng"],
+        "conclusion": "Cảm lạnh"
+      },
+      {
+        "conditions": ["Khàn tiếng", "Ho khan"],
+        "conclusion": "Viêm thanh quản"
+      },
+      {
+        "conditions": ["Chảy máu cam", "Nghẹt mũi"],
+        "conclusion": "Viêm mũi cấp tính"
+      },
+      {
+        "conditions": ["Nghẹt mũi", "Chảy dịch mũi màu vàng"],
+        "conclusion": "Viêm xoang cấp tính"
+      },
+      {
+        "conditions": ["Hắt hơi nhiều", "Ngứa mắt"],
+        "conclusion": "Viêm mũi dị ứng theo mùa"
+      },
+      {
+        "conditions": ["Nghẹt mũi", "Chảy mũi kéo dài", "Khó nuốt"],
+        "conclusion": "Viêm xoang cấp tính nặng"
+      },
+      {
+        "conditions": ["Đau họng", "Sốt", "Cục hạch cứng ở cổ"],
+        "conclusion": "Ung thư vòm họng"
+      },
+      {
+        "conditions": ["Đau họng", "Sốt", "Khó nuốt"],
+        "conclusion": "Viêm amidan nặng"
+      }
+    ]
+  }
+  
